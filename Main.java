@@ -1,6 +1,10 @@
 package HomeWork141;
 
 import java.lang.reflect.Method;
+/*
+Создать класс с несколькими методами.
+Вызвать метод по имени заданном как строка используя рефлексию
+ */
 
 public class Main {
     public static void main(String[] args) {
